@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W25139
   title: ལྷ་ལྡན་ཇོ་བོ་རིན་པོ་ཆེའི་བྱུང་བ
-  volume: ''
+  volume:
+    b6da97de8ad344d7b20c3096ca3640d3:
+      image_group_id: I1PD95842
+      title: Volume 1 of gsung thor bu/_blo gros dpal
+      volume_number: 1
+      total_pages: 416
   author: ''
+ebook_metadata:
+  title: ལྷ་ལྡན་ཇོ་བོ་རིན་པོ་ཆེའི་བྱུང་བ
+  author: ''
+  sku: P000527
+  cover: cover.jpg
+  layers:
+  - pagination
